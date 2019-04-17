@@ -1,9 +1,13 @@
-## Welcome to GitHub Pages
+## Server Temperature: Range and Alerts
 
-You can use the [editor on GitHub](https://github.com/shwetha1607/TempAlert/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Fill out the following form to enter the acceptable range of temperature of the server and your GmailID (required) and/or your 10-digit phone number to receive mail/sms alerts.
+[Click here](https://www.google.com/) for the form
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Feedback
+
+Feel free to write to us about any thoughts, concerns or problems:
+Feedback form: [Click here](https://www.google.com/)
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
